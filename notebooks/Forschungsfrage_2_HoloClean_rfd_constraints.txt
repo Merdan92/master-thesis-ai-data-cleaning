@@ -1,0 +1,3 @@
+t1&LT(t1.replies,"0")
+t1&LT(t1.views,"0")
+t1&t2&EQ(t1.thread_category,t2.thread_category)&IQ(t1.parent_category,t2.parent_category)
