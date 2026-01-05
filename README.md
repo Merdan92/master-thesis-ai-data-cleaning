@@ -1,4 +1,4 @@
-# AI-based Data Cleaning & Outlier Detection (Master Thesis)
+# AI-based Data Cleaning: Outlier Detection & Inconsistency Repair (Master Thesis)
 
 This repository contains the full implementation, datasets, and experimental results for the Master's Thesis: **"Vergleichende Analyse auf Künstlicher Intelligenz basierender Methoden zur Datenbereinigung"**.
 
