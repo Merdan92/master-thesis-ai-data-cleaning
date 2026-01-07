@@ -28,6 +28,21 @@ The Jupyter Notebooks are organized by Research Question (Forschungsfrage) and p
 #### D. Experiment 3: Outlier Detection on Cleaned Data
 * **`Forschungsfrage_3_*.ipynb`**: Re-evaluation of outlier detection methods after the cleaning process to analyze the impact of data quality improvement.
 
+#### E. Research Question 4: Potentials & Limitations (Prompt Sensitivity)
+To critically evaluate the potentials and limitations of Large Language Models (LLM) in data cleaning, additional experiments were conducted to analyze the impact of **prompt engineering**. These experiments demonstrate how sensitive the model is to different command structures.
+
+* **`/verschiedene_Prompts_für_LLM_1`** (Baseline Experiment)
+    * **Notebook:** `2.2_Forschungsfrage_2_LLM.ipynb`
+    * **Result:** `2.2_rfd_repaired_llm.csv`
+
+* **`/verschiedene_Prompts_für_LLM_2`** (Prompt Variation 1)
+    * **Notebook:** `2.2_Forschungsfrage_2_LLM_2.ipynb`
+    * **Result:** `2.2_rfd_repaired_llm_2.csv`
+
+* **`/verschiedene_Prompts_für_LLM_3`** (Prompt Variation 2)
+    * **Notebook:** `2.2_Forschungsfrage_2_LLM_2_2.ipynb`
+    * **Result:** `2.2_rfd_repaired_llm_2_2.csv`
+
 ### 3. Results (`/results`)
 * Contains the generated CSV outputs, performance metrics, and log files from the experiments.
 
